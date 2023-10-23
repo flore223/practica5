@@ -1,0 +1,9 @@
+/*Documento css*/
+
+body  { background-color: lime;}
+
+h1 { color: darkgreen;
+    text-aling: center;}
+
+h2, h4 { color: red;}
+h5, h6 { color:blue}
